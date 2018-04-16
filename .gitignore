@@ -1,0 +1,9 @@
+venv
+*.pyc
+*.swp
+.vscode
+*.un~
+*.js~
+*.hbs~
+*.py~
+*.scss~
